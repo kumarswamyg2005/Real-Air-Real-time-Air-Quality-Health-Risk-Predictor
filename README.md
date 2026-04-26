@@ -4,11 +4,9 @@ Time-series ML + geospatial dashboard for **10 major Indian cities** (Delhi, Mum
 
 ---
 
-## 🗺️ Dashboard Screenshot
+## 🗺️ Dashboard
 
-![Real-Air Dashboard](docs/screenshot.png)
-
-> *Interactive Leaflet map of India with color-coded AQI markers; click any city for the 48-hour forecast, pollutant breakdown, personalized health alerts, and year-over-year trend comparison.*
+Interactive Leaflet map of India with color-coded AQI markers; click any city for the 48-hour forecast, pollutant breakdown, personalized health alerts, and year-over-year trend comparison.
 
 ---
 
